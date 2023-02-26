@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 
 This code is part of the team assignment of Machine Learning lesson in Data Science and Machine Learning Master of Science programme of National Technical University of Athens. 
 
